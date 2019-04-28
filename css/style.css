@@ -20,6 +20,10 @@ a {
   transition: 0.5s;
 }
 
+h3{
+  color: white
+}
+
 a:hover,
 a:active,
 a:focus {
@@ -203,7 +207,7 @@ h6 {
 #intro .intro-info .btn-get-started,
 #intro .intro-info .btn-services {
   font-family: "Montserrat", sans-serif;
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 600;
   letter-spacing: 1px;
   display: inline-block;
