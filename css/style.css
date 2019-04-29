@@ -219,7 +219,7 @@ h6 {
 }
 
 .donation{
-  background: #fff;
+  background: none;
   border: 2px solid #2cb802;
   color: #fff;
   font-family: "Montserrat", sans-serif;
@@ -1394,11 +1394,17 @@ h6 {
   #why-us .card {
     margin: 0;
   }
+  .center{
+    margin-left: 5%
+  }
 }
 
 @media (max-width: 768px) {
   .back-to-top {
     bottom: 15px;
+  }
+  .center{
+    text-align: center
   }
 }
 
@@ -1430,10 +1436,16 @@ h6 {
   #testimonials .testimonial-item p {
     margin-left: 0;
   }
+  .center{
+    text-align: center
+  }
 }
 
 @media (max-width: 574px) {
   #intro {
     padding: 100px 0 20px 0;
+  }
+  .center{
+    text-align: center
   }
 }
