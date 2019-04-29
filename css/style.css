@@ -55,7 +55,7 @@ h6 {
   position: fixed;
   display: none;
   background: #ffc107;
-  color: #fff;
+  color: rgb(0, 0, 0);
   width: 44px;
   height: 44px;
   text-align: center;
@@ -237,7 +237,7 @@ h6 {
 #intro .intro-info .btn-get-started {
   background: #ffc107;
   border: 2px solid #ffc107;
-  color: #fff;
+  color: rgb(8, 8, 8);
 }
 
 #intro .intro-info .btn-get-started:hover {
