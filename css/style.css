@@ -218,6 +218,22 @@ h6 {
   color: #fff;
 }
 
+.donation{
+  background: #fff;
+  border: 2px solid #2cb802;
+  color: #fff;
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 10px 32px;
+  border-radius: 50px;
+  transition: 0.5s;
+  margin: 0 20px 20px 0;
+  color: #fff;
+}
+
 #intro .intro-info .btn-get-started {
   background: #007bff;
   border: 2px solid #007bff;
